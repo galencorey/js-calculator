@@ -1,0 +1,52 @@
+#face {
+  background-color: #0C40E9;
+  width: 350px;
+  margin: auto;
+  margin-top: 100px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  border-style: outset;
+  border-width: 8px;
+  border-color: #0B0BE0;
+}
+
+#answer {
+  float: right;
+}
+
+#panel {
+  margin: auto;
+  margin-top: 20px;
+  font-size: 30px;
+  font-family: monospace;
+  padding: 10px;
+  height: 70px;
+  width: 300px;
+  background-color: #B1E90C;
+  border-radius: 5px;
+  border-style: inset;
+  border-width: 5px;
+  border-color: #0B0BE0;
+}
+
+.brow {
+  margin-top: 20px;
+  margin-left: 40px;
+  height: 50px;
+  width: 300px;
+}
+
+.btn {
+  background-color: #CF0CE9;
+  float: left;
+  margin-right: 25px;
+  width: 50px;
+  height: 50px;
+  border-style: outset;
+  border-width: 2px;
+  border-color: #9705CC;
+}
+
+#zero {
+  width: 125px;
+}
